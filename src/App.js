@@ -15,7 +15,7 @@ export default function App() {
         <footer className="App-footer">
           Coded by Bri Franz-Jonas, open-sourced on {""}
           <a
-            href=""
+            href="https://github.com/briology101/react-dictionary"
             target="_blank"
             rel="noreferrer"
           >
@@ -23,7 +23,7 @@ export default function App() {
           </a>
           , hosted on {""}
           <a
-            href=""
+            href="distracted-mirzakhani-3db079.netlify.app"
             target="_blank"
             rel="noreferrer"
           > 
