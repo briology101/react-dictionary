@@ -1,12 +1,13 @@
 .App {
   padding: 60px 0 100px;
-  max-width: 960px;
+  max-width: 1200px;
   margin: 0 auto;
   font-family:'Courier New', Courier, monospace;
+  color:rgb(134, 116, 168);
 }
 
 .App a {
-  color: red;
+  color: rgb(134, 116, 168);
 }
 
 .App-logo {
@@ -25,6 +26,6 @@
   text-align: center;
   font-weight: bold;
   font-size: 44px;
-  margin-top: -20px;
+  margin-top: -10px;
   margin-bottom: 40px;
 }

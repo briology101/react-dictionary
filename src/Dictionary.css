@@ -1,16 +1,16 @@
 .Dictionary section {
-    background: rgb(238, 236, 236);
+    background: rgb(215, 206, 231);
     padding: 30px;
     border-radius: 16px;
-    box-shadow: 0px 2px 12px rgba(243, 177, 177, 0.2);
+    box-shadow: 0px 2px 12px rgba(142, 78, 161, 0.5);
     margin: 20px 0;
     font-family:'Courier New', Courier, monospace;
   }
   .Dictionary input {
     width: 100%;
     padding: 6px 4px;
-    border: 2px solid #ddd;
-    border-radius: 8px;
+    border: 2px solid rgb(134, 116, 168);
+    border-radius: 6px;
     font-family:'Courier New', Courier, monospace;
   }
   .Dictionary h1 {
