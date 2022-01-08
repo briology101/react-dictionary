@@ -23,7 +23,7 @@ export default function App() {
           </a>
           , hosted on {""}
           <a
-            href="distracted-mirzakhani-3db079.netlify.app"
+            href="https://distracted-mirzakhani-3db079.netlify.app"
             target="_blank"
             rel="noreferrer"
           > 
