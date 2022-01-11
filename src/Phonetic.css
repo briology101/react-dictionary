@@ -6,9 +6,9 @@
      border: 1px solid #ddd;
      text-decoration: none;
      padding: 10px 20px;
-     border-radius: 20px;
+     border-radius: 10px;
      margin-right: 10px;
-     font-size: 20px;
+     font-size: 17px;
      font-weight: bold;
      transition: all 500mx ease-in-out;
    }
